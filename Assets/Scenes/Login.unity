@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641222, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1333,6 +1333,7 @@ MonoBehaviour:
   inputUsername: {fileID: 1490322067}
   inputPassword: {fileID: 2017858417}
   textLoginResult: {fileID: 1127315420}
+  loggedUser: {fileID: 4428508875114817995, guid: 821734bd42cc86263bf88afadae83f22, type: 3}
   escena: Miro
 --- !u!1 &1732257996
 GameObject:
